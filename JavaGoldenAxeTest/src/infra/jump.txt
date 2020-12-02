@@ -1,0 +1,6 @@
+# jump attack 
+sprite 474 315 75 70 19 52
+# jump up
+sprite 352 316 54 69 40 59
+# jump down
+sprite 422 313 37 72 12 65
