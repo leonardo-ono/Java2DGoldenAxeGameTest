@@ -1,0 +1,8 @@
+name running
+
+# running
+sprite 6 174 39 45 11 45
+sprite 57 172 37 47 9 46
+sprite 106 174 39 45 11 45
+sprite 157 171 37 47 9 46
+

@@ -1,0 +1,4 @@
+name running_attack
+
+# running attack
+sprite 218 178 48 38 10 41

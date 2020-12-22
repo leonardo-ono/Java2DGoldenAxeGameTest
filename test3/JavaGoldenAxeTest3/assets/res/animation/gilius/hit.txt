@@ -1,0 +1,4 @@
+name hit
+
+sprite 7 565 39 52 17 51
+

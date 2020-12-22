@@ -1,0 +1,8 @@
+name falling
+
+# air
+sprite 60 581 60 31 43 21
+
+# hit ground
+sprite 141 602 72 15 47 13
+

@@ -1,0 +1,8 @@
+name attack1
+
+# attack 1
+sprite 7 255 54 47 32 46
+sprite 71 256 78 47 29 45
+sprite 154 258 64 44 43 43
+sprite 154 258 64 44 43 43
+sprite 154 258 64 44 43 43

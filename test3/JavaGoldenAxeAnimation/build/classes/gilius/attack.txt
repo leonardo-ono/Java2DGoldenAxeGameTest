@@ -1,0 +1,9 @@
+sprite 7 255 54 47 0 0
+sprite 71 256 78 47 0 0
+sprite 154 258 64 44 0 0
+sprite 235 255 72 48 0 0
+sprite 324 254 71 48 0 0
+sprite 7 255 54 47 0 0
+sprite 9 321 50 64 0 0
+sprite 82 309 58 77 0 0
+sprite 141 336 70 50 0 0

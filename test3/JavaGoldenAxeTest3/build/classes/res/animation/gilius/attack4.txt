@@ -1,0 +1,15 @@
+# da um coice 2 vezes
+name attack4
+
+sprite 8 413 70 48 48 47
+sprite 83 391 52 70 30 69
+sprite 147 389 45 72 14 71
+sprite 147 389 45 72 14 71
+sprite 83 391 52 70 30 69
+sprite 8 413 70 48 48 47
+sprite 83 391 52 70 30 69
+sprite 147 389 45 72 14 71
+sprite 147 389 45 72 14 71
+sprite 83 391 52 70 30 69
+sprite 8 413 70 48 48 47
+

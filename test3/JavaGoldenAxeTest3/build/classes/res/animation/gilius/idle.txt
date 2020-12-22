@@ -1,0 +1,4 @@
+name idle
+
+# idle
+sprite 173 16 51 55 29 54
