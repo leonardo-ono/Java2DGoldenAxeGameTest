@@ -1,0 +1,8 @@
+name kicking
+
+sprite 206 414 40 48 -2 47
+sprite 261 407 35 54 1 53
+sprite 312 393 52 69 7 68
+sprite 312 393 52 69 7 68
+sprite 261 407 35 54 1 53
+sprite 206 414 40 48 -2 47

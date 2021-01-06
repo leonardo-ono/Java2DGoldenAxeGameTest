@@ -1,0 +1,7 @@
+name attack3
+
+sprite 9 321 50 64 28 63
+sprite 82 309 58 77 14 75
+sprite 141 336 70 50 17 49
+sprite 141 336 70 50 17 49
+sprite 141 336 70 50 17 49

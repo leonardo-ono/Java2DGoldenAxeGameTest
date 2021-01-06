@@ -1,0 +1,8 @@
+name attack2
+
+# attack 2 (sequence)
+sprite 235 255 72 48 16 47
+sprite 324 254 71 48 15 47
+sprite 7 255 54 47 32 46
+sprite 7 255 54 47 32 46
+sprite 7 255 54 47 32 46

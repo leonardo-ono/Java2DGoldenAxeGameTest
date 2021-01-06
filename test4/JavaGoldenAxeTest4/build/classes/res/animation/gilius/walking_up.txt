@@ -1,0 +1,8 @@
+name walking_up
+
+# walking up
+sprite 260 94 26 55 12 51
+sprite 299 92 28 58 13 52
+sprite 333 94 26 54 12 51
+sprite 366 94 28 56 12 52
+
