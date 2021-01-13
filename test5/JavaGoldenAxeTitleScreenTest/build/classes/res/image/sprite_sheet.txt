@@ -1,0 +1,25 @@
+# KANJI
+sprite kanji RIGHT 22 22 195 145 0 0
+
+# BLOOD
+sprite blood RIGHT 233 298 24 23 0 0
+
+#GOLDEN AXE
+sprite letter RIGHT 16 176 21 42 0 0
+sprite letter RIGHT 40 176 21 42 0 0
+sprite letter RIGHT 64 176 21 42 0 0
+sprite letter RIGHT 88 176 21 42 0 0
+sprite letter RIGHT 112 176 21 42 0 0
+sprite letter RIGHT 136 176 21 42 0 0
+sprite letter RIGHT 172 176 22 42 0 0
+sprite letter RIGHT 196 176 23 42 0 0
+sprite letter RIGHT 220 176 21 42 0 0
+
+# SEGA
+sprite sega RIGHT 102 248 64 24 0 0
+
+# BACKGROUND
+sprite background RIGHT 272 16 276 414 0 0
+
+# BACKGROUND DARKER
+sprite background_darker RIGHT 560 16 276 414 0 0

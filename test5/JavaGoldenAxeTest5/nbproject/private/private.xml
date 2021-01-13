@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/animation/gilius/points.txt</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/entity/Enemy1.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/image/longmoan.png</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/Camera.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/animation/gilius/colliders.txt</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/Audio.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/Settings.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/entity/Player2.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/Actor.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/image/stage_1_collision_mask.png</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/Resource.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/Collider.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/image/stage_2_collision_mask.png</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/animation/longmoan/colliders.txt</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/AnimationPlayer.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/Display.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/animation/gilius/sprite_sheet.txt</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/Text.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/image/stage_2.png</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/Terrain.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/scene/Stage.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/main/Main.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/entity/Player1.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/Sprite.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/animation/longmoan/sprite_sheet.txt</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/image/gilius.png</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/animation/longmoan/points.txt</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/image/stage_1.png</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/assets/res/image/stage_1_background.png</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest5/src/infra/StateManager.java</file>
+        </group>
+    </open-files>
+</project-private>
