@@ -65,7 +65,7 @@ public class View extends JPanel implements MouseListener, KeyListener {
             if (firstPath == null) {
                 firstPath = path;
             }
-            arrows.add(new Arrow(path, Color.RED, i * 50, 2));
+            arrows.add(new Arrow(path, Color.RED, i * 31, 2));
         }
         
         //createArrows2();
@@ -79,7 +79,7 @@ public class View extends JPanel implements MouseListener, KeyListener {
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                for (int i = 0; i < 8; i++) {
+                for (int i = 0; i < 5; i++) {
                     update();
                 }
                 
@@ -157,7 +157,20 @@ public class View extends JPanel implements MouseListener, KeyListener {
         for (double angle = 210; angle < 765; angle += d) {
             double x = (150 + 0) * Math.cos(Math.toRadians(angle));
             double y = 28 * Math.sin(Math.toRadians(angle));
-            double aay = angle < 360 ? 20 : 19;
+            double aay = 0;
+            
+            if (angle < 360) {
+                aay = 0;
+            }
+            else if (angle < 540) {
+                aay = 10;
+            } 
+            else if (angle < 720) {
+                aay = 0;
+            }
+            else {
+                aay = 20;
+            }
             path2.add(new Point((int) (480 + x), (int) (311 + y + aay)));
         }
         
