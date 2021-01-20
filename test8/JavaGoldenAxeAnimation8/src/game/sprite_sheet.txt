@@ -1,0 +1,25 @@
+# KANJI
+sprite 22 22 195 145 0 0
+
+# BLOOD
+sprite 233 298 24 23 0 0
+
+#GOLDEN AXE
+sprite 16 176 21 42 0 0
+sprite 40 176 21 42 0 0
+sprite 64 176 21 42 0 0
+sprite 88 176 21 42 0 0
+sprite 112 176 21 42 0 0
+sprite 136 176 21 42 0 0
+sprite 172 176 22 42 0 0
+sprite 196 176 23 42 0 0
+sprite 220 176 21 42 0 0
+
+# SEGA
+sprite 102 248 64 24 0 0
+
+# BACKGROUND
+sprite 272 16 256 256 0 0
+
+# BACKGROUND DARKER
+sprite 544 16 256 256 0 0

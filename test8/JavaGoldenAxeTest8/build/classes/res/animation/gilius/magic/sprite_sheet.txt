@@ -1,0 +1,4 @@
+sprite magic RIGHT 0 0 104 200 45 176
+sprite magic RIGHT 104 0 104 200 46 176
+
+sprite all RIGHT 0 0 208 200 0 0 

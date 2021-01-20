@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/src/entity/Player1.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/src/infra/Entity.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/src/entity/Enemy1.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/src/infra/Actor.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/assets/res/animation/gilius/magic/sprite_sheet.txt</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/src/entity/magic/Dust.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/src/infra/AnimationPlayer.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/src/entity/magic/Lightning2.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/assets/res/animation/gilius/magic/colliders.txt</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/src/scene/Stage.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/src/entity/EnemiesManager.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/src/entity/magic/Lightning.java</file>
+            <file>file:/D:/golden_axe/JavaGoldenAxeTest8/assets/res/image/lightning_1.png</file>
+        </group>
+    </open-files>
+</project-private>
