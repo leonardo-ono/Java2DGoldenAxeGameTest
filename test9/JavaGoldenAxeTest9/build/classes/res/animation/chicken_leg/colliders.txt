@@ -1,0 +1,3 @@
+collider ATTACK NONE true 139 125 44 15
+collider ATTACK NONE true 345 55 15 35
+collider FORCE_ATTACK:mount NONE false 40 42 19 6
